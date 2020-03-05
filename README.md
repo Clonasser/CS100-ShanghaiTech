@@ -1,7 +1,7 @@
 # CS100 - Computer Programming - Shanghaitech
 
 This is a collection of CS100 course projects in 2019 fall.
-It contains 8 individual projects, you should write all of them in **C or C++**.
+It contains 8 individual projects, you need to write all of them in **C or C++**.
 
 
 ## What can I learn from these projects?
