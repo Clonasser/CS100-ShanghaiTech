@@ -1,7 +1,8 @@
 # CS100 - Computer Programming - Shanghaitech
 
 This is a collection of CS100 course projects in 2019 fall.
-It contains 8 individual projects, including basic C and C++ programming language
+It contains 8 individual projects, you should write all of them in **C or C++**.
+
 
 ## What can I learn from these projects?
 - Syntax of C and C++ programming language
@@ -17,6 +18,9 @@ It contains 8 individual projects, including basic C and C++ programming languag
 - Basic multi-thread programming
 - Part of new features of C++11/14/17
 - Basic functional programming
+
+
+
 - Dependencies management (Eigen, OpenCV...)
 
 ## Contents of each project/homework
